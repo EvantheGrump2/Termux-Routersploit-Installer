@@ -11,4 +11,8 @@ An installer for Routersploit on Android devices running Termux. See download an
  This installer installs to path. Run the command `rsf` to open routersploit. The actual executable is stored in $PREFIX/share/routersploit/
  
 ## Troubleshooting
-if you get this error: `Sub-process /usr/bin/dpkg returned an error code (1)` run the following command: `dpkg --configure -a`
+if you get this error: 
+`Sub-process /usr/bin/dpkg returned an error code (1)` 
+run the following command: 
+`dpkg --configure -a`
+and press return to keep the default settings.
