@@ -1,4 +1,4 @@
-An installer for Routersploit on Android devices running Termux.
+An installer for Routersploit on Android devices running Termux. See usage below.
 
 ## Download:
 
@@ -6,3 +6,7 @@ An installer for Routersploit on Android devices running Termux.
 
 ## Versions Tested:
  F-Droid Termux v. 0.118.1
+
+ ## Usage
+ This installer installs to path. Run the command `rsf` to open routersploit. The actual executable is stored in $PREFIX/share/routersploit/
+ 
