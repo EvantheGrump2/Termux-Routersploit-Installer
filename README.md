@@ -1,8 +1,8 @@
-An installer for Routersploit on Android devices running Termux. See usage below.
+An installer for Routersploit on Android devices running Termux. See download and usage below.
 
 ## Download:
 
-`curl -q -O -L https://github.com/EvantheGrump2/Termux-Routersploit-Installer/releases/latest/download/routersploit-installer.sh && sh routersploit-installer.sh`
+`curl -q -L https://github.com/EvantheGrump2/Termux-Routersploit-Installer/releases/latest/download/routersploit-installer.sh | sh`
 
 ## Versions Tested:
  F-Droid Termux v. 0.118.1
